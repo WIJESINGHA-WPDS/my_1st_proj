@@ -1,5 +1,5 @@
 #include <iostream>
-
+//changed to merge
 // Existing add function
 double add_numbers(double a, double b) {
     return a + b;
